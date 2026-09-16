@@ -224,6 +224,11 @@ blockquote {
 body {
 	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
 	font-size: 12px;
+	background-color: #000000;
+	background-image: url("spots.gif");
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 3px black;
 }
 td {
 	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
