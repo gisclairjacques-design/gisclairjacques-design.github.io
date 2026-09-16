@@ -113,7 +113,7 @@ p.bottomNav a:hover{
 	color: #33CC99
 }
 p {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 12px;
 	margin-left: 20px;
 	margin-right: 10px;
@@ -121,7 +121,7 @@ p {
 
 }
 h2 {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-weight: normal;
 	font-size: 16px;
 	margin: 0px;
@@ -140,7 +140,7 @@ h2 {
 
 }
 h5 {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 14px;
 	letter-spacing: 2px;
 	padding-top: 3px;
@@ -155,7 +155,7 @@ h5 {
 
 }
 .resultsSet {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 12px;
 	font-weight: normal;
 	background-color: #DDF3FE;
@@ -163,7 +163,7 @@ h5 {
 
 }
 .mostStuff {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 12px;
 	margin-top: 6px;
 	margin-right: 10px;
@@ -182,20 +182,20 @@ h5 {
 
 }
 .justFont {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 12px;
 	margin: 0px;
 }
 blockquote {
 	margin-top: 8px;
 	margin-left: 120px;
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 12px;
 
 
 }
 .small {
-	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+	font-family: "sans", "sansbd", "sansbi", sans-serif;
 	font-size: 10px;
 	color: #666666;
 }
@@ -225,7 +225,7 @@ body {
 	font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
 	font-size: 12px;
 	background-color: #000000;
-	background-image: url("spots.gif");
+	background-image: url("Circlescheats.gif");
 	text-align: center;
 	color: white;
 	text-shadow: 2px 2px 3px black;
