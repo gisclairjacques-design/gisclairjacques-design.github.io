@@ -1,0 +1,51 @@
+body { background: #e5430c url(../images/bg.gif); }
+
+#content { background: #fff url(../images/content_bgtile.gif); }
+
+#sidenav { background: url(../images/sidenav_bg.gif) no-repeat; }
+
+#cc {
+	float: left;
+	width: 320px;
+	height: 60px;
+	color: #fff;
+	background: #000;
+}
+
+#vidclip {
+	background: #37b4ca;
+	float: left;
+	width: 320px;
+	height: 316px;
+	margin-top: 42px;
+	padding: 6px;
+}
+
+#vidclip-wd {
+	float: left;
+	width: 400px;
+	height: 286px;
+	margin-top: 39px;
+	border-style: solid; 
+	border-color: #37b4ca;
+	border-width: 6px;
+}
+
+#cc-wd {
+	float: left;
+	width: 400px;
+	height: 60px;
+	color: #fff;
+	background: #000;
+	border-style: solid; 
+	border-color: #37b4ca;
+	border-width: 0 0 6px;
+}
+
+#help-wd {
+	display: block;
+	float: left;
+	width: 42px;
+	position: relative;
+	left: 370px;
+}
