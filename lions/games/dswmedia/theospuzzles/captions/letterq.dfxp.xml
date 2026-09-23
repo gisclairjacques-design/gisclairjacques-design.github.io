@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.333" end="00:00:02.500">Here are some words that begin<br />with the letter &quot;q.&quot;</p>
+		<p begin="00:00:02.500" end="00:00:03.467">(makes &quot;q&quot; sound)</p>
+		<p begin="00:00:03.467" end="00:00:05.333">Quilt.</p>
+		<p begin="00:00:05.333" end="00:00:07.933">Queen.</p>
+		<p begin="00:00:07.933" end="00:00:09.333">Quarter.</p>
+		<p begin="00:00:09.333" end="00:00:11.333">Quill.</p>
+		<p begin="00:00:11.333" end="00:00:13.467">Question mark.</p>
+		<p begin="00:00:13.467" end="00:00:14.333">&quot;Q.&quot;</p>
+		<p begin="00:00:14.333" end="00:00:15.333">(makes &quot;q&quot; sound)</p>
+</div>
+</body>
+</tt>

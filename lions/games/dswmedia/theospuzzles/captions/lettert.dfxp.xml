@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.367" end="00:00:02.833">Here are some instruments<br />that begin with the letter &quot;t.&quot;</p>
+		<p begin="00:00:02.833" end="00:00:03.867">(makes &quot;t&quot; sound)</p>
+		<p begin="00:00:03.867" end="00:00:06.433">(plays drum roll)</p>
+		<p begin="00:00:06.433" end="00:00:07.867">Tympani.</p>
+		<p begin="00:00:07.867" end="00:00:10.333">(plays a few notes)</p>
+		<p begin="00:00:10.333" end="00:00:12.267">Trumpet.</p>
+		<p begin="00:00:12.267" end="00:00:14.533">(plays a few notes)</p>
+		<p begin="00:00:14.533" end="00:00:15.667">Trombone.</p>
+		<p begin="00:00:15.667" end="00:00:17.033">(plays a note)</p>
+		<p begin="00:00:17.033" end="00:00:18.067">Triangle.</p>
+		<p begin="00:00:18.067" end="00:00:19.067">(rattles)</p>
+		<p begin="00:00:19.067" end="00:00:20.467">Tambourine.</p>
+		<p begin="00:00:20.467" end="00:00:23.167">(plays a note)</p>
+		<p begin="00:00:23.167" end="00:00:24.600">Tuba.</p>
+		<p begin="00:00:24.600" end="00:00:25.300">&quot;T.&quot;</p>
+		<p begin="00:00:25.300" end="00:00:26.133">(makes &quot;t&quot; sound)</p>
+		<p begin="00:00:26.133" end="00:00:27.367">(plays single beat)</p>
+</div>
+</body>
+</tt>

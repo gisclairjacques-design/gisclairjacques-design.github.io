@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.400" end="00:00:02.767">Here are some words<br />that begin with the letter &quot;d.&quot;</p>
+		<p begin="00:00:02.767" end="00:00:04.167">(makes &quot;d&quot; sound)</p>
+		<p begin="00:00:05.600" end="00:00:06.667">Drum.</p>
+		<p begin="00:00:06.667" end="00:00:08.200">Doll.</p>
+		<p begin="00:00:08.200" end="00:00:09.800">Dipper.</p>
+		<p begin="00:00:09.800" end="00:00:11.733">Dollar.</p>
+		<p begin="00:00:11.733" end="00:00:13.200">Dog.</p>
+		<p begin="00:00:13.200" end="00:00:14.800">Dime.</p>
+		<p begin="00:00:14.800" end="00:00:16.867">Dreamcatcher.</p>
+		<p begin="00:00:16.867" end="00:00:17.733">&quot;D.&quot;</p>
+		<p begin="00:00:17.733" end="00:00:18.733">(makes &quot;d&quot; sound)</p>
+</div>
+</body>
+</tt>

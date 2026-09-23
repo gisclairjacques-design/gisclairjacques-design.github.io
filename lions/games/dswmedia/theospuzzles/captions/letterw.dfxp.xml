@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.400" end="00:00:03.033">Here are some words<br />that begin with the letter &quot;w.&quot;</p>
+		<p begin="00:00:03.033" end="00:00:04.033">(makes &quot;w&quot; sound)</p>
+		<p begin="00:00:05.367" end="00:00:06.467">Wall.</p>
+		<p begin="00:00:06.467" end="00:00:08.000">Wagon.</p>
+		<p begin="00:00:08.000" end="00:00:09.533">Water.</p>
+		<p begin="00:00:09.533" end="00:00:10.800">Watch.</p>
+		<p begin="00:00:10.800" end="00:00:12.200">Worm.</p>
+		<p begin="00:00:12.200" end="00:00:13.333">Woman.</p>
+		<p begin="00:00:13.333" end="00:00:14.733">Women.</p>
+		<p begin="00:00:14.733" end="00:00:16.533">Wink.</p>
+		<p begin="00:00:16.533" end="00:00:17.600">&quot;W.&quot;</p>
+		<p begin="00:00:17.600" end="00:00:18.600">(makes &quot;w&quot; sound)</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.400" end="00:00:02.400">Here are some words that begin<br />with the &quot;cuh&quot; sound</p>
+		<p begin="00:00:02.400" end="00:00:03.867">in the letter &quot;c.&quot;</p>
+		<p begin="00:00:03.867" end="00:00:05.467">Cookie.</p>
+		<p begin="00:00:05.467" end="00:00:06.467">Cool.</p>
+		<p begin="00:00:06.467" end="00:00:08.067">Collar.</p>
+		<p begin="00:00:08.067" end="00:00:09.933">Catcher.</p>
+		<p begin="00:00:09.933" end="00:00:12.033">Carrot.</p>
+		<p begin="00:00:12.033" end="00:00:13.133">Corn.</p>
+		<p begin="00:00:13.133" end="00:00:14.600">Cornflakes.</p>
+		<p begin="00:00:14.600" end="00:00:15.867">&quot;C.&quot;</p>
+		<p begin="00:00:15.867" end="00:00:17.267">(makes hard &quot;c&quot; sound)</p>
+</div>
+</body>
+</tt>

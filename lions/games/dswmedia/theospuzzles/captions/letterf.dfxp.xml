@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.100" end="00:00:02.867">Here are some words<br />that begin with the letter &quot;f.&quot;</p>
+		<p begin="00:00:02.867" end="00:00:04.533">(makes &quot;f&quot; sound)</p>
+		<p begin="00:00:04.533" end="00:00:06.067">Flour.</p>
+		<p begin="00:00:06.067" end="00:00:07.067">Flower.</p>
+		<p begin="00:00:07.067" end="00:00:08.133">Fan.</p>
+		<p begin="00:00:08.133" end="00:00:09.000">Fred.</p>
+		<p begin="00:00:09.000" end="00:00:10.267">Fried pickle.</p>
+		<p begin="00:00:10.267" end="00:00:12.067">French fries.</p>
+		<p begin="00:00:12.067" end="00:00:14.400">Fish.</p>
+		<p begin="00:00:14.400" end="00:00:15.533">&quot;F.&quot;</p>
+		<p begin="00:00:15.533" end="00:00:16.533">(makes &quot;f&quot; sound)</p>
+</div>
+</body>
+</tt>

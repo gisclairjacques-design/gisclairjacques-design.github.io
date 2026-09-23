@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.667" end="00:00:02.567">Hi. I&apos;m from Houston, Texas,</p>
+		<p begin="00:00:02.567" end="00:00:05.100">and here are some words that<br />begin with the letter &quot;g.&quot;</p>
+		<p begin="00:00:05.100" end="00:00:06.600">(makes &quot;g&quot; sound)</p>
+		<p begin="00:00:06.600" end="00:00:08.800">Goggles.</p>
+		<p begin="00:00:08.800" end="00:00:09.933">Girl.</p>
+		<p begin="00:00:09.933" end="00:00:11.267">Golf ball.</p>
+		<p begin="00:00:11.267" end="00:00:12.400">Golf club.</p>
+		<p begin="00:00:12.400" end="00:00:14.533">Guitar.</p>
+		<p begin="00:00:14.533" end="00:00:16.267">Gumballs.</p>
+		<p begin="00:00:16.267" end="00:00:17.333">&quot;G.&quot;</p>
+		<p begin="00:00:17.333" end="00:00:18.400">(makes &quot;g&quot; sound)</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.333" end="00:00:02.767">Here are some words that begin<br />with the letter &quot;l.&quot;</p>
+		<p begin="00:00:02.767" end="00:00:03.733">(makes &quot;l&quot; sound)</p>
+		<p begin="00:00:03.733" end="00:00:05.267">Light.</p>
+		<p begin="00:00:05.267" end="00:00:06.467">Lily.</p>
+		<p begin="00:00:06.467" end="00:00:07.800">Lily pad.</p>
+		<p begin="00:00:07.800" end="00:00:09.467">Lime.</p>
+		<p begin="00:00:09.467" end="00:00:10.533">Lionel.</p>
+		<p begin="00:00:10.533" end="00:00:11.867">Lollipop.</p>
+		<p begin="00:00:11.867" end="00:00:14.000">Lemon.</p>
+		<p begin="00:00:14.000" end="00:00:15.133">Lamp.</p>
+		<p begin="00:00:15.133" end="00:00:16.533">Lick.</p>
+		<p begin="00:00:16.533" end="00:00:17.933">Leona.</p>
+		<p begin="00:00:17.933" end="00:00:18.733">&quot;L.&quot;</p>
+		<p begin="00:00:18.733" end="00:00:19.733">(makes &quot;l&quot; sound)</p>
+</div>
+</body>
+</tt>

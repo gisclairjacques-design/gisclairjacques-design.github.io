@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.433" end="00:00:03.000">Here are some words with<br />the letter &quot;x&quot; in them.</p>
+		<p begin="00:00:03.000" end="00:00:04.467">(plays a note)</p>
+		<p begin="00:00:04.467" end="00:00:05.533">Sax.</p>
+		<p begin="00:00:05.533" end="00:00:07.200">Fox.</p>
+		<p begin="00:00:07.200" end="00:00:08.867">Six.</p>
+		<p begin="00:00:08.867" end="00:00:10.267">Texas.</p>
+		<p begin="00:00:10.267" end="00:00:11.733">Tuxedo.</p>
+		<p begin="00:00:11.733" end="00:00:13.400">Box.</p>
+		<p begin="00:00:13.400" end="00:00:14.200">&quot;X.&quot;</p>
+</div>
+</body>
+</tt>

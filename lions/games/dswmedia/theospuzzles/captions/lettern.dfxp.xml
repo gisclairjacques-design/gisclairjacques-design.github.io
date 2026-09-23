@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.400" end="00:00:02.733">Here in Oregon, these are<br />some fun words</p>
+		<p begin="00:00:02.733" end="00:00:04.067">that begin with the letter &quot;n.&quot;</p>
+		<p begin="00:00:04.067" end="00:00:05.067">(makes &quot;n&quot; sound)</p>
+		<p begin="00:00:05.067" end="00:00:06.467">Nickel.</p>
+		<p begin="00:00:06.467" end="00:00:08.333">Nest.</p>
+		<p begin="00:00:08.333" end="00:00:10.733">Neck.</p>
+		<p begin="00:00:10.733" end="00:00:13.400">Nine.</p>
+		<p begin="00:00:13.400" end="00:00:16.000">Noodle.</p>
+		<p begin="00:00:16.000" end="00:00:18.533">Nose.</p>
+		<p begin="00:00:18.533" end="00:00:20.100">Net.</p>
+		<p begin="00:00:21.867" end="00:00:23.600">Napkin.</p>
+		<p begin="00:00:23.600" end="00:00:24.533">&quot;N.&quot;</p>
+		<p begin="00:00:24.533" end="00:00:25.533">(makes &quot;n&quot; sound)</p>
+</div>
+</body>
+</tt>

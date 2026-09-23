@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en" >
+<head>
+	<styling>
+		<style id="defaultCaption" tts:fontSize="14px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+	</styling>
+</head>
+<body id="thebody" style="defaultCaption">
+	<div xml:lang="en">
+		<p begin="00:00:00.333" end="00:00:02.100">Here in Iowa, these are<br />some fun words</p>
+		<p begin="00:00:02.100" end="00:00:03.800">that begin with the letter &quot;p.&quot;</p>
+		<p begin="00:00:03.800" end="00:00:04.867">(makes &quot;p&quot; sound)</p>
+		<p begin="00:00:04.867" end="00:00:06.400">Pig.</p>
+		<p begin="00:00:06.400" end="00:00:08.867">Paint.</p>
+		<p begin="00:00:08.867" end="00:00:10.800">Pants.</p>
+		<p begin="00:00:10.800" end="00:00:12.333">Pumpkin.</p>
+		<p begin="00:00:12.333" end="00:00:14.867">Penny.</p>
+		<p begin="00:00:14.867" end="00:00:16.600">Pan.</p>
+		<p begin="00:00:16.600" end="00:00:18.733">Pizza.</p>
+		<p begin="00:00:18.733" end="00:00:21.533">Mmm... pie.</p>
+		<p begin="00:00:21.533" end="00:00:22.400">&quot;P.&quot;</p>
+		<p begin="00:00:22.400" end="00:00:23.400">(makes &quot;p&quot; sound)</p>
+</div>
+</body>
+</tt>
