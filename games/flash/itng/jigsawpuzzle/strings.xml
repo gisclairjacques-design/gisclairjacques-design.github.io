@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<content>
+
+  <string id="IDS_LOADING">Loading...</string>
+  <string id="IDS_WHOS_HERE">Who's here?</string>
+  <string id="IDS_ALL_ABOARD">All aboard the Ninky Nonk for a puzzle adventure!</string>
+  <string id="IDS_HELP_TITLE">How to Play</string>
+  <string id="IDS_HELP_1">Take a ride on the Ninky Nonk through the Night Garden with your favourite characters with this shape puzzle game.</string>
+  <string id="IDS_HELP_2">Click the puzzle piece icon to get hold of a new puzzle piece. With all the pieces in place watch the scene come to life! There are 4 in total to see.</string>
+  <string id="IDS_HELP_3">You can also play the game via keyboard input:\nSpacebar - moves flower cursor through all the options\nEnter - selects option</string>
+  <string id="IDS_START">Start</string>
+  <string id="IDS_HOW_TO_PLAY">How to play</string>
+  <string id="IDS_WEBCAM_TITLE">Webcam Test Page</string>
+  <string id="IDS_WEBCAM_INTRO">During the game, there are opportunities to see yourself alongside the In the Night Garden characters using a webcam.\n\nThe following screen will ask you if you want to use your webcam as a local connection . Don't worry, this is just a local connection to your computer, your details will not be distributed or used elsewhere.\n\nIf you don't want to use your webcam connection that's ok as the webcam is not essential to the game, but it allows you to enjoy an extra special experience.</string>
+  <string id="IDS_WEBCAM_PROMPT_1">Do you have any Webcams installed on your machine?</string>
+  <string id="IDS_WEBCAM_PROMPT_2">Move in front of your webcam.\nCan you see yourself in the circle?</string>
+  <string id="IDS_WEBCAM_HELP_TITLE">Webcam Help</string>
+  <string id="IDS_WEBCAM_HELP_TEXT">Unable to see yourself? Check your webcam is plugged into your computer and pointing towards you and start the game again. If you encounter further problems please refer to the manufacturer's installation guide that supports your webcam.\n\nThe webcam is not essential to the game, you can still play and enjoy a magical journey In the Night Garden.</string>
+  <string id="IDS_YES">Yes</string>
+  <string id="IDS_NO">No</string>
+  <string id="IDS_OK">OK</string>
+
+</content>

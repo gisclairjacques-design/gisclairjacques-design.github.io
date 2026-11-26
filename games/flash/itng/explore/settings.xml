@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+
+  <journey_list id="journey_list">
+
+    <journey id="journey1" start="location1">
+    </journey>
+
+    <journey id="journey2" start="location1">
+    </journey>
+
+
+    <journey id="journey3" start="location1">
+    </journey>
+
+
+  </journey_list>
+</settings>
